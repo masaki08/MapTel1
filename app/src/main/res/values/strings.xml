@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MapTel</string>
+    <string name="action_settings">Ver1.0</string>
+    <string name="map_label">地図連携</string>
+    <string name="map_address">東京都港区</string>
+
+    <string name="call_label">電話連携</string>
+    <string name="call_button">発信</string>
+    <string name="call_msg">市外局番からお願いします</string>
+</resources>
